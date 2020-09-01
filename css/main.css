@@ -1,0 +1,25 @@
+h1  {
+    text-align: center;
+}
+
+header{
+    padding: 20px;
+    background-color: turquoise;
+    color: cornsilk
+}
+
+.nav {
+    background-color: grey;
+    color: cornsilk;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: turquoise;
+    color: cornsilk
+}
